@@ -1,0 +1,32 @@
+.ContactList{
+    border: 2px solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#updateBtn{
+    background-color: hsl(120, 41%, 56%);
+}
+#updateBtn:hover{
+    background-color: hsl(120, 41%, 46%);
+}
+
+#deleteBtn{
+    background-color: hsl(0, 100%, 74%);
+}
+#deleteBtn:hover{
+    background-color: hsl(0, 100%, 64%);
+}
+
+#contactInfo{
+    margin: 100px;
+}
+
+#contactCell{
+    background-color: #ebebeb;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0px;
+}
